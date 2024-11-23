@@ -13,7 +13,7 @@ lyrics = [
     ("Haunted by the ghost of you", 0.09),
     ("Take me back to the night we met", 0.11)
 ]
-delays = [0, 5.0, 11.0, 17.0, 20.5, 26.0] 
+delays = [0, 5.0, 11.0, 17.0, 20.5, 26.0]
 
 def animate_text(text, delay=0.1):
     for char in text:
